@@ -21,3 +21,5 @@ def pressed(button):
 	
 right_button.when_pressed = pressed
 left_button.when_pressed = pressed
+
+exit()
